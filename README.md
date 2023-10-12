@@ -36,11 +36,8 @@ install.py scripts onto directories.
     - polybar : polybar status bar config
     - rofi : rofi application launcher
     - sxhkd : sxhkd keyboard shortcuts
-
-**TODO**:
-
-- [picom](https://wiki.archlinux.org/title/picom) : fancy desktop effects
-- feh : desktop background
+    - [picom](https://wiki.archlinux.org/title/picom) : fancy desktop effects
+    - feh : desktop background (~/.wallpaper needed).
 
 
 ### nvim
