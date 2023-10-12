@@ -7,9 +7,11 @@ updates and maybe help someone else. :)
 
 ## Basic info
 
+
 ### System info
 
 Ubuntu 22.04 LTS @ Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz RAM: 8GB
+
 
 ### Requirements
 
@@ -23,6 +25,7 @@ install.py scripts onto directories.
 
 
 ## Applications
+
 
 ### bspwm
 
@@ -40,8 +43,17 @@ install.py scripts onto directories.
 - feh : desktop background
 
 
+### nvim
+
+- /home/user/.config/nvim
+
+- The one plugin
+    - [vimplug](https://github.com/junegunn/vim-plug)
+
+
 ## Cloud tools
+
 
 ### github
 
-[GitHub CLI manual](https://cli.github.com/manual/)
+- [GitHub CLI manual](https://cli.github.com/manual/)
