@@ -7,9 +7,11 @@ updates and maybe help someone else. :)
 
 ## Basic info
 
+
 ### System info
 
 Ubuntu 22.04 LTS @ Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz RAM: 8GB
+
 
 ### Requirements
 
@@ -24,6 +26,7 @@ install.py scripts onto directories.
 
 ## Applications
 
+
 ### bspwm
 
 [The n00b’s guide to bspwm (with XFCE)…](https://bgdawes.github.io/bspwm-xfce-dotfiles/)
@@ -33,15 +36,21 @@ install.py scripts onto directories.
     - polybar : polybar status bar config
     - rofi : rofi application launcher
     - sxhkd : sxhkd keyboard shortcuts
+    - [picom](https://wiki.archlinux.org/title/picom) : fancy desktop effects
+    - feh : desktop background (~/.wallpaper needed).
 
-**TODO**:
 
-- [picom](https://wiki.archlinux.org/title/picom) : fancy desktop effects
-- feh : desktop background
+### nvim
+
+- /home/user/.config/nvim
+
+- The one plugin
+    - [vimplug](https://github.com/junegunn/vim-plug)
 
 
 ## Cloud tools
 
+
 ### github
 
-[GitHub CLI manual](https://cli.github.com/manual/)
+- [GitHub CLI manual](https://cli.github.com/manual/)

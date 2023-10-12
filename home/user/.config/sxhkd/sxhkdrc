@@ -142,10 +142,12 @@ super + {Left,Down,Up,Right}
 alt + Delete
   pactl set-sink-mute @DEFAULT_SINK@ toggle
    
+# https://unix.stackexchange.com/questions/233346/playerctl-dbus-not-working-with-spotify
 # Play
 #XF86AudioPlay
+  #playerctl play-pause
 alt + Insert
-  playerctl play-pause
+  playerctl -p spotify play-pause
      
 #Next
 #XF86AudioNext
@@ -162,5 +164,9 @@ XF86AudioStop
   playerctl stop
 # ]
 
+# cedillas may be different across keyboards (believe or not)
+super + cedilla
+  i3lock -c 202020
+
 super + ccedilla
-  i3lock -c 000000
+  i3lock -c 202020
