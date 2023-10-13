@@ -1,0 +1,28 @@
+[user]
+	name = Joao Mano
+	email = joaomanojr@gmail.com
+[gitreview]
+	branch = develop
+	remote = origin
+[core]
+        editor = vim
+        pager = less -F -X
+
+# nvimdiff as mergetool
+[merge]
+	tool = nvimdiff
+[diff]
+	tool = nvimdiff
+
+# vscode as mergetool
+# [merge]
+#         tool = vscode
+# [mergetool "vscode"]
+#         cmd = code --wait $MERGED
+# [diff]
+#         tool = vscode
+# [difftool "vscode"]
+#         cmd = code --wait --diff $LOCAL $REMOTE
+
+[pull]
+	rebase = true
