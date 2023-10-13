@@ -10,12 +10,14 @@ updates and maybe help someone else. :)
 
 ### System info
 
-Ubuntu 22.04 LTS @ Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz RAM: 8GB
+Ubuntu 22.04 LTS @ Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz, RAM: 8GB
+
 
 
 ### Requirements
 
-- python3
+Actually none. Compatible applications' versions installed maybe. :)
+One may need python3 if want to render README.md locally.
 
 
 ## Installation
@@ -27,7 +29,7 @@ install.py scripts onto directories.
 ## Applications
 
 
-### bspwm
+### bspwm 0.9.10
 
 [The n00b’s guide to bspwm (with XFCE)…](https://bgdawes.github.io/bspwm-xfce-dotfiles/)
 
@@ -40,12 +42,17 @@ install.py scripts onto directories.
     - feh : desktop background (~/.wallpaper needed).
 
 
-### nvim
+### nvim 0.6.1
 
 - /home/user/.config/nvim
 
-- The one plugin
+- The one plugin installer:
     - [vimplug](https://github.com/junegunn/vim-plug)
+
+
+### git 2.34.1
+
+- /home/user/.gitconfig
 
 
 ## Cloud tools
