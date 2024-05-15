@@ -55,6 +55,11 @@ install.py scripts onto directories.
 - /home/user/.gitconfig
 
 
+### oh my zsh and powerlevel10k
+
+- https://medium.com/opensanca/personalizando-o-terminal-com-powerlevel10k-6c2609360a55
+
+
 ## Cloud tools
 
 
