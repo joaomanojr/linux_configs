@@ -66,3 +66,8 @@ install.py scripts onto directories.
 ### github
 
 - [GitHub CLI manual](https://cli.github.com/manual/)
+
+
+## Useful links
+
+- [fdupes, eliminate duplicated files](https://www.tecmint.com/find-and-delete-duplicate-files-in-linux/).
